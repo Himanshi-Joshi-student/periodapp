@@ -1,0 +1,11 @@
+@import "tailwindcss";
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: light dark;
+  background-color: #030712;
+  /* color: rgba(255, 255, 255, 0.87); */
+  /* background-color:url(./components/header/Navbar/pages/Home/img/img.jpg) */
+  /* background-image: url(./components/header/Navbar/pages/Home/img/artistic-blurry-colorful-wallpaper-background.jpg); */
+  
+  margin-top: 20px;
+}

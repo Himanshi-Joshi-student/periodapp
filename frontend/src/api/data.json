@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "0dbc",
+      "name": "harshita",
+      "email": "harshita@example.com",
+      "password": "opd"
+    },
+    {
+      "id": "379c",
+      "name": "Sonu",
+      "email": "sonuexampl@gmail.com",
+      "password": "sonuhai"
+    }
+  ]
+}
